@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MLOps, TensorFlow, Cloud**
 
-- 👨‍💻 All of my projects are available at [github.com/yaswanthkumargothi/Portfolio](github.com/yaswanthkumargothi/Portfolio)
+- 👨‍💻 All of my projects are available at [github.com/yaswanthkumargothi/Portfolio](https://github.com/yaswanthkumargothi/Portfolio)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yaswanthkumargothireddy/detail/recent-activity/posts/](https://www.linkedin.com/in/yaswanthkumargothireddy/detail/recent-activity/posts/)
 
