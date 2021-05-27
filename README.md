@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ykgothi@gmail.com**
 
-- ⚡ Fun fact **I can't breather without chai Tea**
+- ⚡ Fun fact **I can't breathe without chai Tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
